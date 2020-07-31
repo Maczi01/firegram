@@ -8,7 +8,7 @@
 
 /* base styles & title */
 body{
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", sans-serif;
   color: var(--secondary);
 }
 .App{
