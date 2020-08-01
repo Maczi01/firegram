@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UploadForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useStorage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596146350054</updated>
       <workItem from="1596146354721" duration="12748000" />
-      <workItem from="1596316784803" duration="1623000" />
+      <workItem from="1596316784803" duration="2933000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -98,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596281307835</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add useState">
+      <created>1596318960577</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596318960578</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +126,7 @@
     <MESSAGE value="add sans serif" />
     <MESSAGE value="add firebase to project" />
     <MESSAGE value="change folder name to components" />
-    <option name="LAST_COMMIT_MESSAGE" value="change folder name to components" />
+    <MESSAGE value="add useState" />
+    <option name="LAST_COMMIT_MESSAGE" value="add useState" />
   </component>
 </project>
