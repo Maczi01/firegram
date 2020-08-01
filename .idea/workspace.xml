@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/firebase/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UploadForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596146350054</updated>
-      <workItem from="1596146354721" duration="5050000" />
+      <workItem from="1596146354721" duration="12748000" />
+      <workItem from="1596316784803" duration="1623000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -88,16 +91,35 @@
       <option name="project" value="LOCAL" />
       <updated>1596276100393</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change folder name to components">
+      <created>1596281307832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596281307835</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="add sans serif" />
     <MESSAGE value="add firebase to project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add firebase to project" />
+    <MESSAGE value="change folder name to components" />
+    <option name="LAST_COMMIT_MESSAGE" value="change folder name to components" />
   </component>
 </project>
