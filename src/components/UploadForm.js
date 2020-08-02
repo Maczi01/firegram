@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import ProgressBar from "./ProgressBar";
 
 const UploadForm = () => {
 
@@ -7,12 +8,12 @@ const UploadForm = () => {
     const changeHandler = (e) => {
         let selectedFile = e.target.files[0]
 
-        const allowedTypes = ['image/png','image/jpeg']
+        const allowedTypes = ['image/png', 'image/jpeg']
 
-        if(selectedFile && allowedTypes.includes(selectedFile.type)){
+        if (selectedFile && allowedTypes.includes(selectedFile.type)) {
             setFile(selectedFile)
             setError('')
-        } else{
+        } else {
             setFile(null)
             setError('Select image in png or jpeg format')
         }
@@ -22,8 +23,9 @@ const UploadForm = () => {
         <form>
             <input type="file" onChange={changeHandler}/>
             <div className="output">
-                {error && <div className="error">{error} </div> }
-                {file && <div>{file.name} </div> }
+                {error && <div className="error">{error} </div>}
+                {file && <div>{file.name} </div>}
+                {file && <ProgressBar file={file} setFile={setFile}/>}
             </div>
         </form>
     )
