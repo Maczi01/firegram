@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProgressBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProgressBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useStorage.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       <workItem from="1596146354721" duration="12748000" />
       <workItem from="1596316784803" duration="3327000" />
       <workItem from="1596365877641" duration="3185000" />
-      <workItem from="1596401801204" duration="2223000" />
+      <workItem from="1596401801204" duration="5751000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596401838332</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="working progress bar">
+      <created>1596404525402</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596404525402</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +163,8 @@
     <MESSAGE value="create custom hook" />
     <MESSAGE value="created hook useStorage" />
     <MESSAGE value="add progress bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="add progress bar" />
+    <MESSAGE value="working progress bar" />
+    <MESSAGE value="create timestampp" />
+    <option name="LAST_COMMIT_MESSAGE" value="create timestampp" />
   </component>
 </project>
