@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hooks/useStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageGrid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,7 @@
       <workItem from="1596146354721" duration="12748000" />
       <workItem from="1596316784803" duration="3327000" />
       <workItem from="1596365877641" duration="3185000" />
-      <workItem from="1596401801204" duration="6558000" />
+      <workItem from="1596401801204" duration="7259000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -148,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596491548621</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="changes in timestampp">
+      <created>1596492686097</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596492686097</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +184,7 @@
     <MESSAGE value="add progress bar" />
     <MESSAGE value="working progress bar" />
     <MESSAGE value="create timestampp" />
-    <option name="LAST_COMMIT_MESSAGE" value="create timestampp" />
+    <MESSAGE value="changes in timestampp" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in timestampp" />
   </component>
 </project>
