@@ -17,8 +17,8 @@ const useStorage = (file) => {
             setError(err)
         }, async () => {
             const url = await storageRef.getDownloadURL();
-            const createdAt: timestamp()
-            collectionRef.add({url, createdAt: })
+            const createdAt = timestamp();
+            collectionRef.add({url, createdAt})
             setUrl(url)
         })
     }, [file]);

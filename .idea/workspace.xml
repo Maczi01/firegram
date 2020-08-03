@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/firebase/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hooks/useStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useStorage.js" afterDir="false" />
     </list>
@@ -28,6 +28,12 @@
         <option value="C:\Users\Admin\WebstormProjects\firegram\.idea" />
       </set>
     </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1fQNRd6dbzrO4Z3fsGXSRdCvdCw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -70,7 +76,7 @@
       <workItem from="1596146354721" duration="12748000" />
       <workItem from="1596316784803" duration="3327000" />
       <workItem from="1596365877641" duration="3185000" />
-      <workItem from="1596401801204" duration="5751000" />
+      <workItem from="1596401801204" duration="6558000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -135,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596404525402</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="create timestampp">
+      <created>1596491548619</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596491548621</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
