@@ -9,7 +9,7 @@ useEffect(() => {
     }
 }, [url, setFile])
     return(
-        <div className="progress-bar" style={{width: progress + '%'}}>progress bar</div>
+        <div className="progress-bar" style={{width: progress + '%'}}></div>
     )
 }
 
