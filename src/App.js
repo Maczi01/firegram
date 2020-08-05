@@ -5,17 +5,17 @@ import ImageGrid from "./components/ImageGrid";
 import Modal from "./components/Modal";
 
 function App() {
-    
-    const [selectedImage, setSelectedImage] = useState()
-    
-  return (
-    <div className="App">
-      <Title/>
-      <UploadForm/>
-      <ImageGrid setSelectedImage={setSelectedImage}/>
-      <Modal selectedImage={selectedImage}/>
-    </div>
-  );
-}
 
-export default App;
+    const [selectedImage, setSelectedImage] = useState()
+
+    return (
+        <div className="App">
+            <Title/>
+            <UploadForm/>
+            <ImageGrid setSelectedImage={setSelectedImage}/>
+            {selectedImage && <Modal selectedImage={selectedImage}/>}
+            < /div>
+                );
+                }
+
+                export default App;
