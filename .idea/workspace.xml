@@ -4,6 +4,7 @@
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ImageGrid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageGrid.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +77,7 @@
       <workItem from="1596146354721" duration="12748000" />
       <workItem from="1596316784803" duration="3327000" />
       <workItem from="1596365877641" duration="3185000" />
-      <workItem from="1596401801204" duration="14150000" />
+      <workItem from="1596401801204" duration="15522000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -190,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596579764745</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add modal to root file">
+      <created>1596664454524</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596664454524</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +234,8 @@
     <MESSAGE value="add grid display" />
     <MESSAGE value="created grid with images" />
     <MESSAGE value="add modal file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add modal file" />
+    <MESSAGE value="add modal to root file" />
+    <MESSAGE value="display image on click" />
+    <option name="LAST_COMMIT_MESSAGE" value="display image on click" />
   </component>
 </project>
