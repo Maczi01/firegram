@@ -13,9 +13,9 @@ function App() {
             <Title/>
             <UploadForm/>
             <ImageGrid setSelectedImage={setSelectedImage}/>
-            {selectedImage && <Modal selectedImage={selectedImage}/>}
-            < /div>
-                );
-                }
+            {selectedImage && <Modal selectedImage={selectedImage} setSelectedImage={setSelectedImage}/>}
+        </div>
+    );
+}
 
-                export default App;
+export default App;
