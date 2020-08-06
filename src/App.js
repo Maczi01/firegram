@@ -6,7 +6,7 @@ import Modal from "./components/Modal";
 
 function App() {
 
-    const [selectedImage, setSelectedImage] = useState()
+    const [selectedImage, setSelectedImage] = useState(null)
 
     return (
         <div className="App">
