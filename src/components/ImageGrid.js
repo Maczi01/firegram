@@ -1,15 +1,18 @@
 import React, {useState} from 'react';
 import useFirestore from "../hooks/useFirestore";
-import {motion } from 'framer-motion'
+import {motion} from 'framer-motion'
+
 const ImageGrid = ({setSelectedImage}) => {
 
     const {docs} = useFirestore('images')
     return (
         <div className="img-grid">
             {docs && docs.map(doc => (
-                <div className="img-wrap" key={doc.id} onClick={() => setSelectedImage(doc.url)}>
+                <motion.div className="img-wrap"
+                     key={doc.id}
+                     onClick={() => setSelectedImage(doc.url)}>
                     <img src={doc.url} alt="uploaded pic"/>
-                </div>
+                </motion.div>
             ))}
         </div>
     )
