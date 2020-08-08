@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +74,7 @@
       <workItem from="1596146354721" duration="12748000" />
       <workItem from="1596316784803" duration="3327000" />
       <workItem from="1596365877641" duration="3185000" />
-      <workItem from="1596401801204" duration="19492000" />
+      <workItem from="1596401801204" duration="20147000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -233,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596837120352</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="working close and open modal">
+      <created>1596840425124</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1596840425124</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +279,7 @@
     <MESSAGE value="add unclick" />
     <MESSAGE value="try add unclick to div" />
     <MESSAGE value="add framer motion" />
-    <option name="LAST_COMMIT_MESSAGE" value="add framer motion" />
+    <MESSAGE value="working close and open modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="working close and open modal" />
   </component>
 </project>
