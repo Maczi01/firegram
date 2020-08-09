@@ -75,7 +75,7 @@
       <workItem from="1596146354721" duration="12748000" />
       <workItem from="1596316784803" duration="3327000" />
       <workItem from="1596365877641" duration="3185000" />
-      <workItem from="1596401801204" duration="21151000" />
+      <workItem from="1596401801204" duration="23358000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -245,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596880517358</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add motion to div">
+      <created>1596923052785</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1596923052787</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,6 +296,7 @@
     <MESSAGE value="add framer motion" />
     <MESSAGE value="working close and open modal" />
     <MESSAGE value="add framer motion to image grid" />
-    <option name="LAST_COMMIT_MESSAGE" value="add framer motion to image grid" />
+    <MESSAGE value="add motion to div" />
+    <option name="LAST_COMMIT_MESSAGE" value="add motion to div" />
   </component>
 </project>
