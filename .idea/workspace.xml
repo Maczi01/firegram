@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ProgressBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProgressBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useFirestore.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useFirestore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useStorage.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,7 @@
       <workItem from="1596146354721" duration="12748000" />
       <workItem from="1596316784803" duration="3327000" />
       <workItem from="1596365877641" duration="3185000" />
-      <workItem from="1596401801204" duration="24887000" />
+      <workItem from="1596401801204" duration="25934000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -260,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597006727164</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add animation and motion">
+      <created>1597009861775</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1597009861776</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +289,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add sans serif" />
     <MESSAGE value="add firebase to project" />
     <MESSAGE value="change folder name to components" />
     <MESSAGE value="add useState" />
@@ -305,6 +313,7 @@
     <MESSAGE value="add framer motion to image grid" />
     <MESSAGE value="add motion to div" />
     <MESSAGE value="add motion to img" />
-    <option name="LAST_COMMIT_MESSAGE" value="add motion to img" />
+    <MESSAGE value="add animation and motion" />
+    <option name="LAST_COMMIT_MESSAGE" value="add animation and motion" />
   </component>
 </project>

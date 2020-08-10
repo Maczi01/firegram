@@ -11,8 +11,8 @@ useEffect(() => {
 }, [url, setFile])
     return(
         <motion.div className="progress-bar" >
-            initial={{width: 0}}
-            animate={{width: progress + '%'}}
+            {/*initial={{width: 0}}*/}
+            {/*animate={{width: progress + '%'}}*/}
         </motion.div>
     )
 }
