@@ -3,6 +3,7 @@ import Title from './components/Title';
 import UploadForm from "./components/UploadForm";
 import ImageGrid from "./components/ImageGrid";
 import Modal from "./components/Modal";
+import Footer from "./components/Footer";
 
 function App() {
 
@@ -10,9 +11,11 @@ function App() {
 
     return (
         <div className="App">
+            <Footer />
             <Title/>
             <UploadForm/>
-            <ImageGrid setSelectedImage={setSelectedImage}/>
+            <ImageGrid setSelectedIma
+                       ge={setSelectedImage}/>
             {selectedImage && <Modal selectedImage={selectedImage} setSelectedImage={setSelectedImage}/>}
         </div>
     );
