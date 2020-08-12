@@ -1,9 +1,9 @@
 import React, {useState} from 'react';
-import Title from './components/Title';
-import UploadForm from "./components/UploadForm";
-import ImageGrid from "./components/ImageGrid";
-import Modal from "./components/Modal";
-import Header from "./components/Header";
+import Title from './components/Title/Title';
+import UploadForm from "./components/UploadForm/UploadForm";
+import ImageGrid from "./components/ImageGrid/ImageGrid";
+import Modal from "./components/Modal/Modal";
+import Header from "./components/Header/Header";
 
 function App() {
 
