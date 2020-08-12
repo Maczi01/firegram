@@ -3,7 +3,7 @@ import Title from './components/Title';
 import UploadForm from "./components/UploadForm";
 import ImageGrid from "./components/ImageGrid";
 import Modal from "./components/Modal";
-import Footer from "./components/Footer";
+import Header from "./components/Header";
 
 function App() {
 
@@ -11,7 +11,7 @@ function App() {
 
     return (
         <div className="App">
-            <Footer />
+            <Header />
             <Title/>
             <UploadForm/>
             <ImageGrid setSelectedIma
