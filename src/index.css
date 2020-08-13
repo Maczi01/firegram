@@ -122,15 +122,3 @@ label:hover {
     border: 3px solid white;
 }
 
-.footer {
-    margin-top: 50px;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    display: flex;
-    justify-content: flex-end;
-    height: 70px;
-    width: 100vw;
-    color: blue;
-    background-color: yellow;
-}

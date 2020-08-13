@@ -1,7 +1,8 @@
 import React from "react";
+import styles from './Header.module.scss';
 
 const Header = () => (
-        <ul className="footer">
+        <ul className={styles.header}>
             <li>me</li>
             <li>you</li>
         </ul>
