@@ -17,6 +17,7 @@ function App() {
             <ImageGrid setSelectedIma
                        ge={setSelectedImage}/>
             {selectedImage && <Modal selectedImage={selectedImage} setSelectedImage={setSelectedImage}/>}
+
         </div>
     );
 }

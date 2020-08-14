@@ -4,7 +4,9 @@ import logoImage from '../../assets/img/logo.png';
 
 const Header = () => (
     <div className={styles.header}>
-        <img src={logoImage} className={styles.logo} alt="logo"/>
+        <div>
+            <img src={logoImage} className={styles.logo} alt="logo"/>
+        </div>
         <ul className={styles.list}>
             <li className={styles.item}>My projects</li>
             <li className={styles.item}>My cad models</li>
