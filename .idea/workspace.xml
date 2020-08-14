@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ImageGrid/ImageGrid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageGrid/ImageGrid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ImageGrid/ImageGrid.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageGrid/ImageGrid.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +95,7 @@
       <workItem from="1596316784803" duration="3327000" />
       <workItem from="1596365877641" duration="3185000" />
       <workItem from="1596401801204" duration="29563000" />
-      <workItem from="1597267403375" duration="6783000" />
+      <workItem from="1597267403375" duration="9177000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -338,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597356124331</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add div to header">
+      <created>1597442288917</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1597442288918</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +369,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changes in timestampp" />
     <MESSAGE value="add second custom hook (only file)" />
     <MESSAGE value="add second custom hook - first step" />
     <MESSAGE value="add grid display" />
@@ -383,6 +393,7 @@
     <MESSAGE value="add scss (css) to header. First working version" />
     <MESSAGE value="add logo" />
     <MESSAGE value="add items to header" />
-    <option name="LAST_COMMIT_MESSAGE" value="add items to header" />
+    <MESSAGE value="add div to header" />
+    <option name="LAST_COMMIT_MESSAGE" value="add div to header" />
   </component>
 </project>

@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+
 :root {
     --primary: #efb6b2;
     --secondary: #4e4e4e;
@@ -94,6 +97,7 @@ label:hover {
     opacity: 0.8;
 }
 
+/*.img-wrap img {*/
 .img-wrap img {
     min-width: 100%;
     min-height: 100%;
