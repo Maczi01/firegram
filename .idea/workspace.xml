@@ -4,7 +4,6 @@
     <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ImageGrid/ImageGrid.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageGrid/ImageGrid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ImageGrid/ImageGrid.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageGrid/ImageGrid.module.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +92,7 @@
       <workItem from="1596365877641" duration="3185000" />
       <workItem from="1596401801204" duration="29563000" />
       <workItem from="1597267403375" duration="11707000" />
-      <workItem from="1597610513889" duration="619000" />
+      <workItem from="1597610513889" duration="1957000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -354,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597444719696</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="refactor in css">
+      <created>1597611881846</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1597611881846</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +380,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add second custom hook - first step" />
     <MESSAGE value="add grid display" />
     <MESSAGE value="created grid with images" />
     <MESSAGE value="add modal file" />
@@ -399,6 +404,7 @@
     <MESSAGE value="add items to header" />
     <MESSAGE value="add div to header" />
     <MESSAGE value="work with css" />
-    <option name="LAST_COMMIT_MESSAGE" value="work with css" />
+    <MESSAGE value="refactor in css" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor in css" />
   </component>
 </project>
