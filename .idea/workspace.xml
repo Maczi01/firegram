@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="" />
+    <list default="true" id="2ee87c5d-e262-45ba-a959-24bc349e5a18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +95,7 @@
       <workItem from="1597784263417" duration="520000" />
       <workItem from="1597959983221" duration="564000" />
       <workItem from="1598297872249" duration="912000" />
-      <workItem from="1598815820866" duration="610000" />
+      <workItem from="1598815820866" duration="1230000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596230650362</created>
@@ -361,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597611881846</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="changes in css">
+      <created>1599170468778</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1599170468778</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +395,6 @@
     <MESSAGE value="add modal file" />
     <MESSAGE value="add modal to root file" />
     <MESSAGE value="display image on click" />
-    <MESSAGE value="changes in css" />
     <MESSAGE value="add unclick" />
     <MESSAGE value="try add unclick to div" />
     <MESSAGE value="add framer motion" />
@@ -406,6 +414,7 @@
     <MESSAGE value="add div to header" />
     <MESSAGE value="work with css" />
     <MESSAGE value="refactor in css" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor in css" />
+    <MESSAGE value="changes in css" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in css" />
   </component>
 </project>

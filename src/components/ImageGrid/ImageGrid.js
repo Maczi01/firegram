@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import useFirestore from "../../hooks/useFirestore";
 import {motion} from 'framer-motion'
-import styles from './ImageGrid.module.scss'
 
 const ImageGrid = ({setSelectedImage}) => {
 
