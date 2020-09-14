@@ -11,7 +11,7 @@ const Header = () => (
         <ul className={styles.list}>
             <li className={styles.item}>My projects</li>
             <li className={styles.item}>My cad models</li>
-            <li className={styles.item}>About me</li>
+            <li className={styles.item}>About me...</li>
             <li className={styles.item}>My CV</li>
         </ul>
     </div>
